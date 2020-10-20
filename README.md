@@ -20,7 +20,7 @@ Repo for the Adult Census Income Project
 
 The EDA shows distribution of data and relation between different features' Below some highlights pulled out from it:
 
-![alt text]('')
+![alt text] (https://github.com/davideragone/Adult_Census_-Income_-Project/blob/main/Pictures/bar_occupation.png "Different Occupations")
 
 
 

@@ -1,4 +1,4 @@
-# Adult_Census_-Income_-Project
+# Adult_Census_Income_Project
 Repo for the Adult Census Income Project 
 
 # Project Overview

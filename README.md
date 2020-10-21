@@ -5,7 +5,7 @@ Repo for the Adult Census Income Project
 
 * Exploratory Data Analysis, outliers identification and data cleaning.
 
-* Modelling using KNeighbors, Logistic Regression, Random Fores, CatBoost amd XGBoost classifiers.
+* Modelling using KNeighbors, Logistic Regression, Random Forest, CatBoost amd XGBoost classifiers.
 
 * Hyperparameters tuning usings RandomizedSearchCV amd  GridSearchCV.
 
